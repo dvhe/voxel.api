@@ -1,0 +1,8 @@
+{
+  "messages": {
+    "room_error": "Unable to find that room",
+    "channel_error": "Unable to find that channel",
+    "message_error": "Unable to find that message",
+    "fallback_error": "It seems something went wrong"
+  }
+}
